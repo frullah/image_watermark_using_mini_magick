@@ -4,5 +4,5 @@ This repository is an example for implementing watermarking indonesia identity c
 
 ## TODO
 
-- [ ] install `mini_magick` gem
+- [x] install `mini_magick` gem
 - [ ] implement watermarking
