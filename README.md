@@ -4,7 +4,7 @@ This repository is an example for implementing watermarking indonesia identity c
 
 ## Purpose
 
-- To avoid misuse of KTP by employees when employee sees uploader of KTP.
+- To avoid misuse of KTP by employees when employee sees uploader's KTP.
 - Learn how to add watermark into image using Ruby.
 
 ## TODO
