@@ -10,7 +10,7 @@ module ImageWatermarkUsingMiniMagick
     
     before { FileUtils.rm_f(output_path) }
 
-    it "should add watermark to the right of image" do
+    pending "should add watermark to the left-bottom of image" do
       Watermarker.call(
         from: image_path,
         to: output_path,
